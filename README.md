@@ -14,10 +14,7 @@
 
 - 📫 Reach out to me at **savithral437@gmail.com**
 
-<h3 align="left">GitHub Stats:</h3>
-<div>
 
-<p>&nbsp;<img align="center" src="" alt="Savithra-src" /></p>
 <br>
 </div>
 <br>
